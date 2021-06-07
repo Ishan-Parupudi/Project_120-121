@@ -1,0 +1,39 @@
+body
+{
+    font-family: Oxanium;
+    background-color: antiquewhite;
+    font-weight: bolder;
+}
+.header_div
+{
+    background: white;
+    color: royalblue;
+}
+.header_div img
+{
+    width: 100px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    line-height: 3;
+    font-weight: bolder;
+}
+img
+{
+    border-style: dashed;
+    border-width: 5px;
+    box-shadow: 5px 5px 18px black;
+    height: 250;
+    width: 250;
+}
+#wwww
+{
+    width: 200;
+    height: 200;
+}
